@@ -3,6 +3,8 @@
 
 [在线游戏 Click to PLAY online](https://tuliyamessenger.github.io/Snake2D/)
 
+![](feature.gif)
+
 
 ##### 使用音乐和音效
 https://soundimage.org/
